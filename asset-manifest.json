@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neo-feed/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/neo-feed/static/js/main.de76cc96.chunk.js",
+    "main.js.map": "/neo-feed/static/js/main.de76cc96.chunk.js.map",
+    "runtime-main.js": "/neo-feed/static/js/runtime-main.f414d352.js",
+    "runtime-main.js.map": "/neo-feed/static/js/runtime-main.f414d352.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/neo-feed/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e519355d.chunk.js": "/neo-feed/static/js/2.e519355d.chunk.js",
+    "static/js/2.e519355d.chunk.js.map": "/neo-feed/static/js/2.e519355d.chunk.js.map",
+    "index.html": "/neo-feed/index.html",
+    "precache-manifest.7f8c7899c46f7d4b6f39729621f0b8e6.js": "/neo-feed/precache-manifest.7f8c7899c46f7d4b6f39729621f0b8e6.js",
+    "service-worker.js": "/neo-feed/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/neo-feed/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/neo-feed/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e519355d.chunk.js.LICENSE.txt": "/neo-feed/static/js/2.e519355d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f414d352.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e519355d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.de76cc96.chunk.js"
+  ]
+}
