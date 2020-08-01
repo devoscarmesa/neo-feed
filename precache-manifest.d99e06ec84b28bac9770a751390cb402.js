@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c2324ac13eda531666cd8879024cf7c",
+    "revision": "d62a6742a8b3d7ea0551f4857320f72e",
     "url": "/neo-feed/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neo-feed/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "367af1afbfe2171c12af",
+    "revision": "a61b9b6462a3809bc251",
     "url": "/neo-feed/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/neo-feed/static/js/2.e519355d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "367af1afbfe2171c12af",
-    "url": "/neo-feed/static/js/main.de76cc96.chunk.js"
+    "revision": "a61b9b6462a3809bc251",
+    "url": "/neo-feed/static/js/main.dcc79667.chunk.js"
   },
   {
     "revision": "266d5acfd014a735dec7",
